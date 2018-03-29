@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : "Felix Cremer"
-  avatar           : "profile.png"
-  bio              : "PhD student in remote sensing \n Undertanding Sentinel-1 timeseries"
+  avatar           : 
+  bio              : "PhD student in remote sensing \n Understanding Sentinel-1 timeseries"
   location         : "Jena Germany"
-  employer         : "Friedrich-Schiller-University Jena
+  employer         : "Friedrich-Schiller-University Jena"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
